@@ -1,11 +1,10 @@
 package com.cg.day03;
 
-public class Singinht {
-
-	public static void main(String[] args) {
-		Inht obj=new Inht();
-		obj.Inht();
-
-	}
+public class Singinht extends Singleinht {
+        public void dis2() {
+        	System.out.println("hi...this is Singleinht");
+        }
+        	
+	
 
 }
